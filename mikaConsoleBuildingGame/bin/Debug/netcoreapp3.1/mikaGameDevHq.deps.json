@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mikaGameDevHq/1.0.0": {
+        "runtime": {
+          "mikaGameDevHq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mikaGameDevHq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

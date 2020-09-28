@@ -1,0 +1,13 @@
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.exe
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.deps.json
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.runtimeconfig.json
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.runtimeconfig.dev.json
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.dll
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\bin\Debug\netcoreapp3.1\mikaGameDevHq.pdb
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.csprojAssemblyReference.cache
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.AssemblyInfoInputs.cache
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.AssemblyInfo.cs
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.csproj.CoreCompileInputs.cache
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.dll
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.pdb
+G:\Users\groot\Documents\GitHub\Gamedev\mikaGameDevHq\obj\Debug\netcoreapp3.1\mikaGameDevHq.genruntimeconfig.cache
